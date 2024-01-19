@@ -13,4 +13,4 @@ Notebook can be check here [Neural Style Transfer in Python Library](./Neural_St
 - matplotlib
 - numpy
 
-[Colab for Fast Neural Style Transfer](https://github.com/MinSiThu/fast-neural-style-transfer/blob/main/Neural_Style_Transfer_in_python_library.ipynb)
+[Google Colab Link for Fast Neural Style Transfer](https://colab.research.google.com/drive/14Bz3FBi_lH2Zvi1Ci2BChuHI76jfMIFu?usp=sharing)https://colab.research.google.com/drive/14Bz3FBi_lH2Zvi1Ci2BChuHI76jfMIFu?usp=sharing)
