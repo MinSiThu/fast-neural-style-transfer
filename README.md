@@ -12,3 +12,5 @@ Notebook can be check here [Neural Style Transfer in Python Library](./Neural_St
 - tensorflow_hub
 - matplotlib
 - numpy
+
+[Colab for Fast Neural Style Transfer](https://github.com/MinSiThu/fast-neural-style-transfer/blob/main/Neural_Style_Transfer_in_python_library.ipynb)
